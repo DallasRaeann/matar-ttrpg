@@ -1,0 +1,4 @@
+- Former [[Archmage]] of [[Tenso]]
+- Male [[Siren]]/[[Blood-Siren]]
+- Son of [[Nicoletta]]
+- 

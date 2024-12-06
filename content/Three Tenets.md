@@ -1,0 +1,5 @@
+- The three tenets of the blood sirens
+- Blood
+- Fangs
+- Night
+- 

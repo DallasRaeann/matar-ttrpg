@@ -1,0 +1,3 @@
+- Councilor of [[Syreni]]
+- [[Siren]]
+- Present at the [[Rectifier Vote]]

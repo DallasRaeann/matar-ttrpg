@@ -1,0 +1,2 @@
+- Councilor of [[Draconis]]
+- Present during the [[Rectifier Vote]]

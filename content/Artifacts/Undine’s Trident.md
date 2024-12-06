@@ -1,0 +1,1 @@
+Wielded by [[Duma Van]] to raise a specter to help aid [[The Rectifiers]] in battling a [[Dragons|dragon]]. After the magic was spent, it shattered into the ocean.

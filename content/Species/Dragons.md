@@ -1,0 +1,6 @@
+---
+tags:
+  - Species
+aliases:
+  - Dragon
+---

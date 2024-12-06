@@ -1,0 +1,16 @@
+Having survived the incident at the [[Ancient Skies]], the new not-yet-party settled into a relatively quiet life. Despite very few of the members knowing one another, they all received the same letter, addressed to each of them personally.
+
+> Your journey will begin in the Head Library of [[Triven]].
+> -The [[Saren|Harbinger]]
+
+The letters held no seal or identifying markers. As the party arrived at the library, they warily began to meet one another, realizing they all held an identical summons. A cloaked figure smoking a pipe seemed to take some interest in their gathering. After a couple of hours, 8 more hooded figures entered the library. One by one, the party was rendered unconscious by the new visitors.
+
+The party awakened in a cavern bound to a stalagmite. The dark knights that had kidnapped them told them they wanted the book the [[Minotaur]] of the group had. Though they found the book, it was rendered blank when they touched it. Having retrieved a letter opened that fell through a small opening above, [[Maron]] freed the party from their bindings. The small group of knights that stood guard over the party were defeated. The party fled from the cave rather than investigate further.
+
+Outside the cave, the party was met yet again by the cloaked figure smoking a pipe. He revealed himself as [[Londo Artlatta|Londo]], Lord of the [[Crownguard|Kingsguard]]. He told the party that he was sent by [[Nizima|King Zin]] to retrieve them, though he had no knowledge of any [[Saren|Harbinger]] when the party asked. Additionally, [[Londo Artlatta|Londo]] revealed these knights called themselves The [[Darkpetal Knights]], though they held no home base. They did, however, all bear the same distinguishing scar spanning their forearm. [[Londo Artlatta|Londo]] guided the party to the capital of [[Luxen]]. 
+
+In the palace of [[Luxen]], the party met [[Nizima|King Zin]] and the councilor of [[Luxen]], [[Vis]]. The king seemed absentminded, his eyes darting around. His hair had withered. Almost all of his defining silver coloring was gone. He regarded the party but asked for strange names: “[[Ralcan]]” and “[[Pakka]]”. He seemed convinced the party had placed him on the throne, and that they were these people. The party remained confused.
+
+While they let the king gather his thoughts, the party spoke with [[Londo Artlatta|Londo]] in the guest lounge of the palace. [[Londo Artlatta|Londo]] revealed he was no fan of the king, and that there were two others with royal blood in their veins, Prince [[Aurum]] and [[Sariel]], the [[Half-Dragon]]. [[Londo Artlatta|Londo]] offered a partnership to see [[Nizima|Zin]] off the throne for the good of [[Matar]] but told the party they need not “choose” at this time. [[Nizima|Zin]] and [[Londo Artlatta|Londo]] agreed to send the party after the cavern of [[Darkpetal Knights]] to dispatch them and learn what they could. 
+
+The party bade the king, councilor, and [[Londo Artlatta|Londo]] farewell as they journeyed into [[Luxen]] to resupply.

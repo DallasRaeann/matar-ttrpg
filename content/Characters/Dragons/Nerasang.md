@@ -1,0 +1,3 @@
+- [[Allunaris]]'s [[Dragons|Dragon]] companion
+- Unknown as to what happened to them after [[Allunaris]]'s death
+- 

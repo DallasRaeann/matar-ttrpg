@@ -1,0 +1,3 @@
+- Councilor of [[Aequor]]
+- Present during the [[Rectifier Vote]], most likely voting "yes"
+- 

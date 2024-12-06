@@ -1,0 +1,1 @@
+The ship that was created for [[The Dragonguard]], which they used to defend [[Naviga]] against the [[Blood-Siren]] attack during the [[Battle of Naviga]].

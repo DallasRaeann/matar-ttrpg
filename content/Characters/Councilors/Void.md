@@ -1,0 +1,2 @@
+- Councilor of [[Ignis]]
+- Present during the [[Rectifier Vote]]

@@ -1,0 +1,3 @@
+- The cat familiar of [[Amalia]]
+- Possesses a shard of the [[Dragons|Dragon]] [[Nerasang]]'s soul, granting her [[Dragons|Dragon]]-like abilities, like the ability to speak telepathically
+- With [[Amalia]]'s help, was able to unlock the ability to fully shift into the form of a black and purple [[Dragons|Dragon]]

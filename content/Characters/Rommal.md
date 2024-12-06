@@ -1,0 +1,2 @@
+- Councilor of [[Olus]]
+-  A [[Humans|human]] man nearing middle age

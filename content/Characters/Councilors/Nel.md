@@ -1,0 +1,3 @@
+- Councilor of [[Velum]]
+- Present during the [[Rectifier Vote]]
+- 
