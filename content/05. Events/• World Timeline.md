@@ -8,6 +8,32 @@ AD = After Doom (referring to The [[Third Doom]] failing)
 Dates marked with circa, sometime, or ??? are unclear to Mataran historians. This is the best chronology formed. 
 
 # Timeline
+```mermaid 
+timeline
+	title Mataran History
+	section Lost History
+		???<br>The Subjugation of Matar - The Rise of the Solstice Magerony : The Solstice Magerony, a small island of incredibly powerful mages, subjugates Matar
+		???<br>The Birth of the Primal Dragons and the Unleashing of Doom and Flourish : The Seven [[Founders]] of the Magerony create the [[Drop of Creation]] : Drop of Creation births the two Primal [[Dragons]], introducing the creatures to the world : [[Doom]] (and likely [[Flourish]]) unleashed upon the world
+		???<br>The Vanishing of the Founders and the Legacy of Their Descendants : The [[Founders]] vanish from the world : an unclear amount of them left behind descendants
+		???<br>The First Doom<br>The Catastrophe that Erased Matar : The [[First Doom]] wipes out [[Matar]]
+		???<br>The Second Doom<br>The Destruction of Matar : The [[Second Doom]] wipes out [[Matar]]
+		???<br>The Mataran Revival<br>The Battle Against the Magerony and the Rise of Earth’s Wielders : Powerful mages achieve godlike levels of power with nature : They teach other Matarans how to wield the powers of the earth : Help repel the [[Magerony]] out of [[Matar]] in a grand clash
+	section Before the 3rd Doom
+		Circa 100 BD<br>The Rise of the Doom-Elf King and the Dragon Exile : From the ashes of a twice-obliterated and previously subjugated country, a Doom-elf fashions himself as King of Matar and sets up a dynasty in Ristum : A Great Hunt begins to eradicate the [[Dragons]], the former servants of the [[Magerony]]. : Remaining [[Dragons]] flee to The [[Ancient Skies]] to live in exile
+		Prior to 50 BD<br>The Fall of the Aladoro Family and the Hidden Siblings : Morrithana Aladoro, sister of Korrin, is born in the Magerony : Korrin (also known as Tristair Aladoro) is born after Morrithana in the Magerony : Loyalists to the [[Founders]] overthrow the [[Aladoro Court|Aladoro Family]]. : Korrin transported to Matar and adopted by [[Thalend]]'s family. : Morrithana goes into hiding as a member of the [[Agianile]] family.
+		Circa 50-25 BD<br>The Half-Dragon Siblings of The Ancient Skies
+content:
+- [[Selina]] the [[Half-Dragon]], is born in The [[Ancient Skies]] to a dragon father
+- [[Sariel]], the [[Half-Dragon]] sister of [[Selina]], is born in The Ancient Skies
+- [[Selina]] leaves The Ancient Skies
+- [[Sarah]], the [[half-dragon]], half-sister to [[Selina]] and [[Sariel]], is born in The Ancient Skies
+- [[Sarah]] leaves The Ancient Skies to live in [[Luxen]] as the governor's adopted daughter
+ 
+date: 19 BD
+title: The Secret Birth of Aurum and Aura
+content:
+- Twins [[Aurum]] and [[Aura]] born to [[Korrin]] and [[Sarah]] in secret
+```
 ## Prior to Modern History
 ```timeline-labeled
 [line-3, body-2]
