@@ -7,47 +7,15 @@ BD = Before Doom (referring to The [[Third Doom]])
 AD = After Doom (referring to The [[Third Doom]] failing) 
 Dates marked with circa, sometime, or ??? are unclear to Mataran historians. This is the best chronology formed. 
 
-# Timeline
-```mermaid 
-timeline
-	title Mataran History
-	section Lost History
-		???<br>The Subjugation of Matar - The Rise of the Solstice Magerony : The Solstice Magerony, a small island of incredibly powerful mages, subjugates Matar
-		???<br>The Birth of the Primal Dragons and the Unleashing of Doom and Flourish : The Seven [[Founders]] of the Magerony create the [[Drop of Creation]] : Drop of Creation births the two Primal [[Dragons]], introducing the creatures to the world : [[Doom]] (and likely [[Flourish]]) unleashed upon the world
-		???<br>The Vanishing of the Founders and the Legacy of Their Descendants : The [[Founders]] vanish from the world : an unclear amount of them left behind descendants
-		???<br>The First Doom<br>The Catastrophe that Erased Matar : The [[First Doom]] wipes out [[Matar]]
-		???<br>The Second Doom<br>The Destruction of Matar : The [[Second Doom]] wipes out [[Matar]]
-		???<br>The Mataran Revival<br>The Battle Against the Magerony and the Rise of Earth’s Wielders : Powerful mages achieve godlike levels of power with nature : They teach other Matarans how to wield the powers of the earth : Help repel the [[Magerony]] out of [[Matar]] in a grand clash
-	section Before the 3rd Doom
-		Circa 100 BD<br>The Rise of the Doom-Elf King and the Dragon Exile : From the ashes of a twice-obliterated and previously subjugated country, a Doom-elf fashions himself as King of Matar and sets up a dynasty in Ristum : A Great Hunt begins to eradicate the [[Dragons]], the former servants of the [[Magerony]]. : Remaining [[Dragons]] flee to The [[Ancient Skies]] to live in exile
-		Prior to 50 BD<br>The Fall of the Aladoro Family and the Hidden Siblings : Morrithana Aladoro, sister of Korrin, is born in the Magerony : Korrin (also known as Tristair Aladoro) is born after Morrithana in the Magerony : Loyalists to the [[Founders]] overthrow the [[Aladoro Court|Aladoro Family]]. : Korrin transported to Matar and adopted by [[Thalend]]'s family. : Morrithana goes into hiding as a member of the [[Agianile]] family.
-		Circa 50-25 BD<br>The Half-Dragon Siblings of The Ancient Skies
-content:
-- [[Selina]] the [[Half-Dragon]], is born in The [[Ancient Skies]] to a dragon father
-- [[Sariel]], the [[Half-Dragon]] sister of [[Selina]], is born in The Ancient Skies
-- [[Selina]] leaves The Ancient Skies
-- [[Sarah]], the [[half-dragon]], half-sister to [[Selina]] and [[Sariel]], is born in The Ancient Skies
-- [[Sarah]] leaves The Ancient Skies to live in [[Luxen]] as the governor's adopted daughter
- 
-date: 19 BD
-title: The Secret Birth of Aurum and Aura
-content:
-- Twins [[Aurum]] and [[Aura]] born to [[Korrin]] and [[Sarah]] in secret
-```
-## Prior to Modern History
-```timeline-labeled
-[line-3, body-2]
 
-date: Date Unknown
-title: The Subjugation of Matar: The Rise of the Solstice Magerony
-content [[Ragnok]]e [[Magerony|Solstice Magerony]], a small island of incredibly powerful mages, subjugates [[Matar]] 
- 
-date: Date Unknown
-title: The Birth of the Primal Dragons and the Unleashing of Doom and [[Flourish]]
-content: 
--The Seven [[Founders]] of the Magerony create the [[Drop of Creation]] 
-- Drop of Creation births the two Primal [[Dragons]], introducing the creatures to the world 
-- [[Doom]] (and likely [[Flourish]]) unleashed upon the world
+# Mataran Timeline
+
+```chronos
+@ [-300~250] #red Lost History (Note: Dates in this period are unknown and are listed in order to keep events in order.)
+- [-300] The Subjugation of Matar:<br>The Rise of the Solstice Magerony|The Solstice Magerony, a small island of incredibly powerful mages, subjugates Matar
+- [-57] The Birth of the Primal Dragons|The Seven Founders of the Magerony create the Drop of Creation. The Drop of Creation births the two Primal Dragons, introducing the creatures to the world.
+- [-56] Doom and Flourish Unleashed|Doom (and likely Flourish) are unleashed upon the world, assumed to be as a result of the Drop of Creation.
+```
 
 date: Date Unknown
 title: The Vanishing of the Founders and the Legacy of Their Descendants
@@ -101,13 +69,10 @@ date: 19 BD
 title: The Secret Birth of Aurum and Aura
 content:
 - Twins [[Aurum]] and [[Aura]] born to [[Korrin]] and [[Sarah]] in secret
-```
 ## Trilogy 1 
 ### [[01. Ebony|Matar: Ebony]]
 *First campaign begins*
-```timeline-labeled
-[line-3, body-2]
-
+timeline-labeled
 date: 18 BD
 title: The Rise of Korrin and the Defeat of the Ebonyborn
 content: 
@@ -124,9 +89,8 @@ content:
 - [[Fist of Korrin]] topples the Ebonyborn king in his own realm with the help of a dark timeline version of [[Korrin]] that can leap across time
 - Ebonyborn eradicated, dark timeline [[Korrin]] fades into oblivion, and [[Fist of Korrin]] sealed within the Ebonyborn realm
 - [[Fist of Korrin]] sees the future and the truth of [[Korrin]]'s dark future
-```
 *End of [[01. Ebony|Ebony]] Campaign* 
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 
 date: 15 BD
@@ -134,10 +98,10 @@ title: The Formation of Scarlet and the Secret Role of Greth
 content:
 - [[Scarlet]], a splinter group meant to further [[Dragonborn]] equality, is formed with [[Selina]] at its helm in secret. 
 - A god in disguise, [[Greth]], helps foster the group
-```
+
 ### [[02. Scarlet|Matar: Scarlet]]
 *Second campaign begins*
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 
 date: 10 BD
@@ -150,9 +114,9 @@ content:
 - Talons of Scarlet overthrow and kill Korrin, thinking they have stopped the villain and saved [[Aurum]] from [[dragon]] experimentation
 - Talons allow Selina to leave in exile with her son, though she was the true cause of war and the experiments on Aurum
 - [[Thalend]] takes the crown
-```
+
  *End of [[02. Scarlet|Scarlet]] Campaign*
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 date: 2 BD
 title: Aurum's Rebellion: The Southern Cities Ablaze
@@ -160,10 +124,10 @@ content:
 - [[Aurum]] reveals himself and begins burning down [[Humans|human]] cities in the south aboard a magical [[Dragons|dragon]] he can conjure at will
 
 
-```
+
 ### [[03. Aurum|Matar: Aurum]]
 *Third campaign begins*
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 
 date: 0 D
@@ -188,9 +152,9 @@ content:
 - TBH are sent into exile due to the nature of their power into the west
 - [[Sarah]] and Korrin become the [[Sarah|Stewardess]] and Reaper, respectively, to oversee the magic of nature
 - Aurum goes into exile with his dragon out of shame for his actions from Selina's upbringing
-```
+
 *End of [[03. Aurum|Aurum]] Campaign*
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 
 date: 1-45 AD
@@ -200,12 +164,10 @@ content:
 - Combat rule for Councilor positions repealed
 - [[Knight Order|Knight Orders]] and [[Mage Order|Mage Orders]] established in each major city
 - No signs of another Doom
-```
-
 ## Duology 1 
 ### [[• White Summary|Matar: White]]
 *Fourth Campaign begins. Takes place during both 46 AD and 49-50 AD.* 
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 
 date: 46 AD
@@ -254,9 +216,9 @@ content:
 - The [[Rectifiers]], [[Mage Order|Mage Orders]], [[Knight Orders]], Crownguard, and Councilors elect [[Zola Artlatta|Zola]] as Queen
 - [[Zola Artlatta|Zola]] accepts the crown as [[Zola Artlatta]]
 - The Rectifiers disbanded
-```
+
 *End of White Campaign*
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
  
 date: 50-59 AD
@@ -266,10 +228,9 @@ content:
 - Cities are now properly cared for and protected, and people begin to feel safer outside of city walls again
 - Research continues into The [[Magerony]] and what threat they may pose
 
-```
 ### Matar: Black
 *Fifth Campaign begins*
-```timeline-labeled
+timeline-labeled
 [line-3, body-2]
 
 date: 60 AD
@@ -277,4 +238,27 @@ title: The Tenth Annual Festival of the White Flame: Celebrating a New Age of "U
 content: 
 - Annual [[Festival of the White Flame]] begins in [[Zola Artlatta|Zola]]'s honor to celebrate the new age of prosperity and peace. All cultures and arts on display at each festival
 - The Tenth Annual Festival of the White Flame begins…
+# Mageron Timeline
+
+```chronos
+@ [0~1191] #red Age of Parasites
+- [1191] #red First Six Founders come into Power|Six Powerful Mages Form Pacts with Spirits and Demons. They are installed as Magistrates and unify the Magerony.
+@ [1192~1458] #green Age of the Blood Moon
+- [1192] #green The Seventh Founder Teaches the Practice of Blood Magic
+- [1192] #green The Founders Officially Claim Their Title
+- [1205] #green The Founders Break Their Pacts|The Founders kept their powers, but the exact method is still unknown and hasn't been replicated since.
+- [1300] #green The Practice of Genetic Mutation Begins|This practice is mostly used to warp Matarans into new species in order to have them fill more specific, magical needs.
+- [1355] #green Drop of Creation Cast|The Dragons Aurion and Ager are crafted into existence.
+- [1355] #green The Founders Create Their Own Domains of Power|They fuse this power into their bloodlines, and some even gifted the power to noble Mageron families.
+- [1392] #green The Fall of the Sunrise Kingdom & The Morning Fey
+- [1395] #green The Fall of the Midnight Coast & The Night Fae
+@ [1459~1759] #blue Age of the Schisms
+- [1500] #blue The First Doom
+- [1602] #blue The Second Doom
+- [1610] #blue The First Matar-Magerony War
+@ [1760~1820] #purple Age of the Founders
+- [1760] #purple The Third Doom
+- [1810] #purple The Fourth Doom (Thwarted)
+- [1820] #purple Nizima Returns
+- [1820] #purple The Second Matar-Magerony War
 ```
