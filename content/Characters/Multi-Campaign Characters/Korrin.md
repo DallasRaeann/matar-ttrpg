@@ -1,0 +1,22 @@
+---
+tags:
+  - character
+aliases:
+  - Reaper
+  - Tristair Aladoro
+  - Tristair
+  - King Korrin
+---
+- ??? - 10 BD
+- Born in an unknown year. 
+- Long-lost brother of [[Morrithana Aladoro]] who was spirited away to [[Matar]] as an infant
+- [[Magerony|Mageron]] name Tristair [[Organizations/Mageron Houses/Aladoro|Aladoro]]
+- Adopted by [[Thalend]]'s family
+- Fathered [[Aura]] and [[Aurum]] with [[Sarah]]
+- Named King of [[Matar]] in 18 BD
+- Married [[Selina]]
+- Killed by [[Talons of Scarlet]] in 10 BD
+- Temporarily resurrected in 0
+- Retook throne in 0
+- Sacrificed self in order for the [[Bloodied Heroes]] and [[Aurum]] to kill the [[Allunaris]]
+- Transcended to the role of "Reaper", where he oversees the destructive forces of the world

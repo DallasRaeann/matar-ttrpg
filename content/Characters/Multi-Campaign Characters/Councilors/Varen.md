@@ -1,0 +1,4 @@
+- Councilor of [[Pravus]]
+- Kidnapped [[Azalea]]
+- Present during the [[Rectifier Vote]]
+- 

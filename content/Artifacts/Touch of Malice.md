@@ -1,0 +1,1 @@
+Gauntlets claimed from [[Count Blackrose]]. [[Zola Artlatta|Zola]] wore one half, and the shards of the other adorned her staff.

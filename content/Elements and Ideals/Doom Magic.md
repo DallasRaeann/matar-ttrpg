@@ -1,0 +1,6 @@
+---
+tags:
+  - Element
+aliases:
+  - Doom
+---

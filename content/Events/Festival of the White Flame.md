@@ -1,0 +1,6 @@
+---
+tags:
+  - Event
+aliases:
+  - Festival
+---

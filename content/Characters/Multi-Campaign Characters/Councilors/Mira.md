@@ -1,0 +1,3 @@
+- Councilor of [[Haven]]
+- Present at the [[Rectifier Vote]]
+- 

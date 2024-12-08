@@ -1,0 +1,14 @@
+---
+tags:
+  - character
+---
+- 
+- ~50 BD - 
+- [[Half-Dragon]] born in the [[Ancient Skies]] around 50 BD
+- Younger sister to [[Selina]]; older half-sister to [[Sarah]]
+- Gifted in strange magic able to hop across different planes
+- Lived in seclusion in the [[Ancient Skies]] until given wardship of her niece [[Aura]]
+- Joined the fight against the [[Third Doom]] in 0
+- Lived in seclusion again until the [[Fourth Doom]] crisis, where she again aided the heroes of the time
+- Freed from captivity of a strange group by her sister [[Selina]]
+- Has been missing searching for her sister since 50 AD

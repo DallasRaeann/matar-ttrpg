@@ -1,0 +1,2 @@
+- Councilor of [[Triven]]
+- A quiet man with glasses and a long ponytail

@@ -1,0 +1,2 @@
+- Destroyed city
+- 

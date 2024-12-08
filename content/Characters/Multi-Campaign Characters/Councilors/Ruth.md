@@ -1,0 +1,4 @@
+- Councilor of [[Seduzi]]
+- Blue [[Pixie]]
+- Present during the [[Rectifier Vote]], unknown what she voted for
+- 

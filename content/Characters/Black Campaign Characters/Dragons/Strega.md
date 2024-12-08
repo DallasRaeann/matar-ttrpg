@@ -1,0 +1,3 @@
+- Blue [[Dragons|Dragon]]
+- [[Dragons|Dragon]] parent of [[Half-Dragon|Half-Dragons]] [[Sariel]], [[Sarah]], [[Selina]], and [[Amalia]]
+- 

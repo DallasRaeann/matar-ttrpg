@@ -1,0 +1,2 @@
+- Councilor of [[Elden]]
+- An [[Elves|elf]] woman with a short temper

@@ -1,0 +1,4 @@
+- Councilor of [[Navis]]
+- A disrespectful man wearing dirty seafaring clothing
+- Present during the [[Rectifier Vote]], most likely voting negatively
+- 

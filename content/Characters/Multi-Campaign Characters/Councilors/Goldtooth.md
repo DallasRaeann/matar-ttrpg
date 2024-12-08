@@ -1,0 +1,2 @@
+- Councilor of [[Merca]]
+- Not present during the [[Rectifier Vote]]

@@ -1,0 +1,3 @@
+- Councilor of [[Inferna]]
+- [[Dragonborn]]
+- Present during the [[Rectifier Vote]], voted "no"

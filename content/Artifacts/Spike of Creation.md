@@ -1,0 +1,1 @@
+An artifact that can destroy an [[Anchors|Anchor]]

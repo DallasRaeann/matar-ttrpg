@@ -1,0 +1,5 @@
+---
+aliases:
+  - Lust Demon
+  - Lust
+---

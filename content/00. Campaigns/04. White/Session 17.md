@@ -1,0 +1,11 @@
+The [[The Rectifiers|Rectifiers]] gathered their trophies from the Flesh Guardian and ventured into the damp red tunnel that awaited them. 
+
+They emerged in a vein-like chamber made of red membrane. A thin layer of fluid covered the floor, clearly blood. Ahead of them were three tunnel openings. Each had a symbol etched into the membrane above. The left had a pool of blood, the middle had two figures, and the right tunnel had several leech like creatures. The party found that the tunnels were enchanted to force them to split, so two pairs took each side tunnel while [[Maron]] took the middle by himself. All three groups entered the tunnels and slid down into a new chamber of blood.
+
+While the two duos found puzzling fights, [[Maron]] came face-to-face with a leechlike humanoid. Though the blood altars and pillars were not properly dealt with, each group of [[The Rectifiers|Rectifiers]] came through victorious and slid down into the Sanguine Guardian’s chamber. 
+
+There, they found similar setups to the rooms they just vanquished, but with several basins of blood, matching the number of people they had in their group. A hissing voice commanded them drink or face their guardian. Though most of the group drank the leech-filled blood to avoid combat, [[Gale]] refused, gathered her allies to the magic circle, and summoned forth the Sanguine Guardian.
+
+Now, they had to face all of them at once alongside the Sanguine Guardian, who was another leechlike humanoid wearing dark robes with veins full of blood flowing through them. It held a staff made of the dark blue flesh the other leeches had. At the top of the staff, instead of a crystal, it held an ever-hungry leech that constantly thrashed about looking for a meal. After dispatching its minions, the party focused on solving the puzzle of the two blood basins sat atop a moat of blood. The moat had summoned forth a magical barrier preventing them from attacking the guardian. After a few ideas had gone to waste, [[Amy]] offered a bit of blood to the basin, finding that that was the key to dispelling the barrier. The [[The Rectifiers|Rectifiers]] dispelled the barrier with their own blood, and vanquished the Sanguine Guardian. 
+
+The [[The Rectifiers|Rectifiers]] gathered their winnings and prepared to venture through the stone door that awaited them...

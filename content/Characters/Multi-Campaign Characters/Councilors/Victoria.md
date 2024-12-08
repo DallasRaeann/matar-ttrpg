@@ -1,0 +1,2 @@
+- Councilor of [[Piscis]]
+- Present at the [[Rectifier Vote]], voted "no"

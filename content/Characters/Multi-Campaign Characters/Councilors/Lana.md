@@ -1,0 +1,2 @@
+- Councilor of [[Viriden]]
+- Present during the [[Rectifier Vote]]

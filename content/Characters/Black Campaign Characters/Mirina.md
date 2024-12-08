@@ -1,0 +1,3 @@
+- Daughter of [[The Red Inquisitor]]
+- Patron of [[The Dragonguard]]
+- [[Magerony|Mageroness]] of the House [[Inquisitor]]
