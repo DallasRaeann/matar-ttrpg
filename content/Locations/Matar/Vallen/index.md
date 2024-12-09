@@ -1,0 +1,5 @@
+---
+title: Vallen
+aliases:
+  - Vallen
+---

@@ -1,0 +1,5 @@
+---
+title: Navis
+aliases:
+  - Navis
+---

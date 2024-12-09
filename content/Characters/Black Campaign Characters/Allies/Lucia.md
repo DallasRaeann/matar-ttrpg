@@ -1,0 +1,4 @@
+---
+aliases:
+  - Knight-Captain Lucia
+---

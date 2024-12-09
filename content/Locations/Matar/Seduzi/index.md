@@ -1,0 +1,5 @@
+---
+title: Seduzi
+aliases:
+  - Seduzi
+---

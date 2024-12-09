@@ -1,4 +1,4 @@
 ---
 tags: []
 ---
-The Minotaur God of Earth
+The [[Minotaur]] God of Earth

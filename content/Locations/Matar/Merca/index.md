@@ -1,0 +1,5 @@
+---
+title: Merca
+aliases:
+  - Merca
+---

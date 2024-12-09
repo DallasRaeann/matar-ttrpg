@@ -4,4 +4,5 @@ aliases:
   - Cave goblins
   - sea goblins
   - frost goblins
+  - river goblins
 ---

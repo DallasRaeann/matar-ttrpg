@@ -1,0 +1,5 @@
+---
+title: Sulan
+aliases:
+  - Sulan
+---

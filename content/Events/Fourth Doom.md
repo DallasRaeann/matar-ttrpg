@@ -4,4 +4,5 @@ tags:
 aliases:
   - The Fourth Doom
   - Fourth
+  - The Fourth Doom Crisis
 ---

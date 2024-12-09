@@ -1,0 +1,7 @@
+Before battle began with Newton and his acolytes, [[Sariel]] advised [[the Dragonguard]] that [[Sarah]] had gifted her the Breath of the [[Sarah|Stewardess]]. An intense light began to flow around [[Sariel]], and the gift seemed to enhance her already powerful light magic. 
+
+With the help of [[Sariel]]’s healing magic, [[the Dragonguard]] was able to stand against Newton and his strange, astral abilities, allegedly gifted to him and his acolytes by their so-called “Guiding Star”. As Newton made his final breaths, he begged the Guiding Star for forgiveness, and wished destruction upon the heretics, [[[[The Dragonguard]]|[[the Dragongua]]rd]]. 
+
+In the clearing rumbling with lightning, the group found a hidden trunk in one of the pits dug by the [[Doomqueen Loyalists]]. The trunk had a sigil of a crown in front of a [[Dragons|dragon]]: [[Korrin]]’s old sigil. Inside were several materials laced with lightning magic as well as a chakram pulsing with electricity. [[Sariel]] advised the group the items should be safe, as she did not sense too much volatility upon them, given her second magic specialty was lightning. She surmised the relic of Voltaire, the lightning god, may have decayed over the years of being buried. 
+
+After a trip to [[Mirina]]’s, where they found her torturing one of her father’s minions for information, [[the Dragonguard]] readied themselves to approach the former capital of [[Locations/Matar/Luxen/index|Luxen]]… 

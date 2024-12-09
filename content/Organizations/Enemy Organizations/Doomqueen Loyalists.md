@@ -1,0 +1,5 @@
+---
+aliases:
+  - Doomqueen Loyalist
+  - Loyalist
+---

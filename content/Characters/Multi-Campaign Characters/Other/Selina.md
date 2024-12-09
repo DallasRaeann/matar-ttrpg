@@ -4,6 +4,7 @@ tags:
 aliases:
   - Doomqueen
   - Scarlet Knight
+  - Queen Selina
 ---
 - ~50 BD - 0, 49 AD - 
 - [[Half-dragon]] born in the [[Ancient Skies]] around 50 BD

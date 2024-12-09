@@ -1,0 +1,5 @@
+---
+title: Triven
+aliases:
+  - Triven
+---

@@ -1,0 +1,11 @@
+Before [[the Dragonguard]] left the seafloor, they decided to utilize the Obsidian Key bought from [[Mirina]]. The key opened a dark portal, through which they stepped. 
+
+Through the portal, the group found a prison wing that had caved in. It was hewn from the same black stone as [[Allunaris]]’s Castle. Though it was difficult to see from the black torchlight, a single prison cell held a humanoid shape, but a hulking jailor stood guard. The jailor was robed in an [[ebonyborn]] shroud and had black tentacle appendages that infinitely rotated dark keys. 
+
+Before the group could move forward, [[Allunaris]] spoke to [[Vespello]] through the [[Doom Magic|Doom]] book. He offered a challenge: if they could defeat his Obsidian Jailor, he would grant them a weapon from his personal armory. The group agreed and engaged the Jailor. 
+
+The Jailor used its black keys to fight, and even bestowed an [[ebonyborn]] vision upon [[Akalar]]. Eventually [[the Dragonguard]] emerged victorious and were presented with three keys. One opened a floor tile containing a weapon of [[Allunaris]]’s. [[Amalia]] retrieved a magic staff adorned with seven [[Doom Magic|Doom crystals]] called Lightdrinker. The second key opened the jail cell which contained a magic-singed skeleton of a pirate captain. Among the remains they found a black harp, discovering that they had just found the remains of the infamous pirate captain Blackharpe. [[Amalia]] sensed the shard of a soul escape the prison. Finally, the third key opened a portal to return the group to where they were. 
+
+The group climbed aboard Diluvia and set off toward [[Locations/Matar/Naviga/index|Naviga]] to speak with [[Cassian]] and investigate the fountain [[Azel]] wished them to investigate. On the way, they spotted a dark shroud over the northern end of the Labyrinth Forest, as well as the hint of a wooden hull disappearing above the clouds. [[Lhant]] warned the group that the Magerony utilized flying vessels, and they were rarely alone. [[The Dragonguard]] decided to regroup in [[Locations/Matar/Naviga/index|Naviga]] before trying to investigate [[Locations/Matar/Tenso/index|Tenso]] themselves. 
+
+As the sun was just about set, the city of [[Locations/Matar/Naviga/index|Naviga]] came into view… 

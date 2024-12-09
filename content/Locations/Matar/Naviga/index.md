@@ -1,0 +1,5 @@
+---
+title: Naviga
+aliases:
+  - Naviga
+---

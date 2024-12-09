@@ -1,0 +1,5 @@
+---
+title: Piscis
+aliases:
+  - Piscis
+---

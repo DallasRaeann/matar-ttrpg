@@ -1,4 +1,5 @@
 ---
 aliases:
   - Anchor
+  - Doom Anchor
 ---

@@ -1,0 +1,5 @@
+---
+title: Olus
+aliases:
+  - Olus
+---

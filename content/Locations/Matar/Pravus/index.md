@@ -1,0 +1,5 @@
+---
+title: Pravus
+aliases:
+  - Pravus
+---

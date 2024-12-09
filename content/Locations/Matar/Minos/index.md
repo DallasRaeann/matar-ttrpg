@@ -1,0 +1,5 @@
+---
+title: Minos
+aliases:
+  - Minos
+---

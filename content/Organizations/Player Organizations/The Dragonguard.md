@@ -4,4 +4,5 @@ aliases:
   - Paragons
   - Paragons of Naviga
   - Dragonguard
+  - The Paragons
 ---

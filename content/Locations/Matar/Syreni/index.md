@@ -1,0 +1,5 @@
+---
+title: Syreni
+aliases:
+  - Syreni
+---

@@ -1,0 +1,5 @@
+---
+title: Ristum
+aliases:
+  - Ristum
+---

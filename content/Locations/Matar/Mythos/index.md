@@ -1,0 +1,5 @@
+---
+title: Mythos
+aliases:
+  - Mythos
+---

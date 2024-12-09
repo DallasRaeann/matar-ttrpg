@@ -1,3 +1,3 @@
-- Councilor of [[Aequor]]
+- Councilor of [[Locations/Matar/Aequor/index]]
 - Present during the [[Rectifier Vote]], most likely voting "yes"
 - 

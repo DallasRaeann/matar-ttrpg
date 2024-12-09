@@ -1,0 +1,5 @@
+---
+title: Viriden
+aliases:
+  - Viriden
+---

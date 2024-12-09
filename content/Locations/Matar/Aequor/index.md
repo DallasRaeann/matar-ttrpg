@@ -1,0 +1,5 @@
+---
+title: Aequor
+aliases:
+  - Aequor
+---
