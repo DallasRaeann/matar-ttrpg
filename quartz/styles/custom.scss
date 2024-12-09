@@ -1,8 +1,10 @@
 @use "./base.scss";
-@font-face h1, h2, h3, h4, h5, h6 {
-               font-family: 'Avona Personal';
-           }
-           body {
-               font-family: 'Avona Serif Personal';
-           }
+
+// custom fonts
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Avona Personal', sans-serif;
+    }
+body {
+    font-family: 'Avona Serif Personal', sans-serif;
+    }
 // put your custom CSS here!
