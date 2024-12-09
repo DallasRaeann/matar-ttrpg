@@ -1,13 +1,9 @@
 @use "./base.scss";
 
 // custom fonts
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Avona Personal', sans-serif;
-    font-weight: normal;
-    }
-body {
-    font-family: 'Avona Serif Personal', sans-serif;
-    font-weight: normal;
+:root {
+    --headerFont: 'Avona Personal', sans-serif;
+    --bodyFont: 'Avona Serif Personal', sans-serif;
     }
 
 // obsidian theme
