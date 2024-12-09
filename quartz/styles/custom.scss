@@ -1,9 +1,15 @@
 @use "./base.scss";
 
 // custom fonts
+@font-face {
+    font-family: 'Avona';
+    src: url('../static/font/Avona/AvonaPersonal-Regular.ttf');
+    font-family: 'Avona Serif';
+    src: url('../static/font/AvonaSerif/AvonaSerifPersonal-Regular.ttf')
+}
 :root {
-    --headerFont: 'Avona Personal', sans-serif;
-    --bodyFont: 'Avona Serif Personal', sans-serif;
+    --headerFont: 'Avona', sans-serif;
+    --bodyFont: 'Avona Serif', sans-serif;
     }
 
 // obsidian theme
