@@ -4,6 +4,7 @@ title:
 tags:
   - Location
 aliases:
+  - Matar
   - Mataran
-  - Matarans
 ---
+Matar is an island country of a wide variety of different species of humanoids. Their lands have been decimated multiple times over the years, resulting in a fractured history but an incredibly resilient populace.

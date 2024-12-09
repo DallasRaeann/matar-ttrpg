@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Matar
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Go to...
+[[01. Campaigns/index|Campaigns]]
+[[Artifacts/index|Artifacts]]
+[[Characters/index|Characters]]
+[[Elements and Ideals/index|Elements and Ideals]]
+[[Events/index|Events]]
+[[Locations/index|Locations]]
+[[Organizations/index|Organizations]]
+[[Species/index|Species]]
